@@ -12,7 +12,7 @@
             <ColumnDefinition Width="235*"/>
         </Grid.ColumnDefinitions>
         <ListBox Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="301" Margin="66,46,0,0" VerticalAlignment="Top" Width="256"/>
-        <Image Grid.Column="1" HorizontalAlignment="Left" Height="209" Margin="277,138,0,0" VerticalAlignment="Top" Width="297"/>
+        <Image x:Name="compImage" Grid.Column="1" HorizontalAlignment="Left" Height="209" Margin="277,138,0,0" VerticalAlignment="Top" Width="297"/>
         <TextBlock Grid.Column="1" HorizontalAlignment="Left" Height="87" Margin="277,46,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="297"/>
         <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="196" Margin="595,178,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="82"/>
 
