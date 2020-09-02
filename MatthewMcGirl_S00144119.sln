@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatthewMcGirl_S00144119", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecreasePriceTest", "DecreasePriceTest\DecreasePriceTest.csproj", "{A5A24271-3B8F-42DD-93B6-70EA1220DAB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Management", "Data Management\Data Management.csproj", "{9F91D8DA-1816-4AD7-B026-FBF83EF856C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A5A24271-3B8F-42DD-93B6-70EA1220DAB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5A24271-3B8F-42DD-93B6-70EA1220DAB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5A24271-3B8F-42DD-93B6-70EA1220DAB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F91D8DA-1816-4AD7-B026-FBF83EF856C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F91D8DA-1816-4AD7-B026-FBF83EF856C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F91D8DA-1816-4AD7-B026-FBF83EF856C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F91D8DA-1816-4AD7-B026-FBF83EF856C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
